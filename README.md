@@ -20,5 +20,5 @@ Este desafio tem o intuito de demonstrar os conceitos adquiridos sobre lógica d
 ✅: CSS
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui] (git@github.com:DiasViana43/challenge-amigo-secreto_pt.git)
+Você pode acessar os arquivos do projeto clicando [aqui] (https://github.com/DiasViana43/challenge-amigo-secreto_pt/tree/main)
  
